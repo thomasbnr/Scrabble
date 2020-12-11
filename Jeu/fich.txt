@@ -1,0 +1,4 @@
+allocation
+maitrsie de pointeurs ->  modifier des vraibles sans passer par le main en utlisant les pointeurs
+
+
